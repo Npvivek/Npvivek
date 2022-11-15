@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and Draft Bit**
 
-- 💬 Ask me about **Web development and Software development**
+- 💬 Ask me about **Web/Software development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
