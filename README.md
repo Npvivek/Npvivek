@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npvivek&label=Profile%20views&color=0e75b6&style=flat" alt="npvivek" /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and Draft Bit**
+- 🌱 I’m currently learning **React.js and Node.js**
 
 - 💬 Ask me about **Web/Software development**
 
